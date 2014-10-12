@@ -112,3 +112,11 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+
+
+### Running the scripts
+
+Simply place the .txt file in a folder called "data" in the same folder
+as the scripts, and the scripts will extract the data from the .txt file
+and produce the desired plot.
+
